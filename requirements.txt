@@ -1,37 +1,22 @@
-# Core Python Libraries
-numpy==1.21.5
-pandas==1.3.3
-matplotlib==3.4.3
-seaborn==0.11.2
+# General dependencies
+streamlit==1.10.0
+gradio==3.0.7
 
-# Deep Learning Libraries
-tensorflow==2.12.0  # Adjusted to avoid compatibility issues
-keras==2.12.0      # Adjusted to match TensorFlow version
-
-# Torch-based Models (ResNet18, MobileNetV2, VGG16)
+# PyTorch dependencies
 torch==2.2.0
 torchvision==0.17.0
 torchaudio==2.2.0
 
-# Image Processing
-opencv-python==4.5.3.56
+# Image processing
 Pillow==9.1.0
+opencv-python==4.5.5.64
 
-# Model Evaluation
-scikit-learn==0.24.2
+# Model evaluation
+scikit-learn==1.0.2
 
-# Plotting and Visualization
+# Plotting and visualization
 matplotlib==3.4.3
 seaborn==0.11.2
 plotly==5.5.0
-
-# Optional - For Jupyter Notebook Usage
-notebook==6.4.5
-jupyterlab==3.0.16
-
-# Web Interface and Model Hosting
-gradio-client==3.0.7
-streamlit==1.10.0
-
-# For HTTP Requests
-requests==2.26.0
+numpy==1.21.5
+pandas==1.3.3
