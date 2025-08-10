@@ -10,4 +10,5 @@ torch
 torchvision
 gradio
 streamlit
-
+plotly
+requests
