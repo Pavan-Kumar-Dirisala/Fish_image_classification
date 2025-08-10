@@ -1,0 +1,1093 @@
+image_path,label,class
+/kaggle/input/fish-images/data/val/animal fish bass/VF7DSYG6UNH0.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/ZRS0GDCNWW15.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/83J37P2N13NT.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/QJPDUA5BOYXF.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/BN3PWFQJ8PNA.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/Y1HE78LWAB4E.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/XU0UI9VG3FTS.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/YWRNZECRBWR4.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/6S113P9OEEHM.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/animal fish bass/BZG5T1SWPC7J.jpg,animal fish bass,0
+/kaggle/input/fish-images/data/val/fish sea_food trout/NTS5WMDWKNZN.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/P9VH1Y50DRCE.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/E62F2NNHBEAX.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/TO8FG804QFZW.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/219K9GF838MD.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/J2NN7JTTE58F.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/RYMFNDVLWOPC.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/BV1VX447Q68D.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/R68I6DASRJ9R.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/P071TZOSSDL2.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/CB55WBAENW6N.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/5I7O7L080BEL.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/WVS91IORMGDH.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/5BD5YZOREYC2.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/719U3U9JIO5M.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/WTQ4G7OKNCIJ.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/PGHCTA5OXKC5.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/KQYXNV12EVLW.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/3ULBAWSI2YJC.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/SF405AMEVI7Q.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/ZG7IE4UIU1LQ.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/CIRE5QQPOSUT.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/8VENW75J683E.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/6CAVICOKFYY7.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/7QT5MNWXZHM5.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/C46111OIFFKA.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/W7TTXTQPFLT8.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/0RK4CCVZXSGG.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/5KI2BEKVFC2P.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/4LU7JK9C4QB5.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/ZZ4Q8GVER4BY.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/15IYWKNUHN9M.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/03FIG5C6GDWE.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/I8WWYG3A4N1N.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/2YKI35Y4YY3H.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/3E3SADR46R8S.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/XZQ5R0H8MC1X.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/CX12EJT6BFK1.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/72GYAHD31KAS.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/AGVKPLZNKZXY.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/AAFS9Z32F4NW.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/WBM3LFHLAZ7A.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/UY9KCKPYHN52.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/KC0VF44B304E.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/5KBYKM9LMFOC.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/UVDA44ZH3CQF.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/4VCME03SNFVY.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/VYOT6LQIOWG4.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/EKFHUZ239PI6.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/JCGZRSPP7XT2.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/F5ZEJT1B9CQ4.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/VOFG1I6CDGJX.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/7XDDJ9K20XY3.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/563WJTMIFMBH.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/NR863K36X33I.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/9CM90D31DF0L.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/UUQNUF37JXGV.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/7B0J65S8ZRFO.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/5D08541WPMF2.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/6B182HA6Y7I3.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/GC50JUQUQZKL.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/TMPVCR78QRCW.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/M5F45WSLDVX2.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/4Q3H1XKWXFYH.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/VDI27EYA26EF.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/Q3T5FIR014C4.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/KRHSHVE5MSKA.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/BVOYFO0IGRVS.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/H6S4J7P32CGC.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/Q4TM633PBZTJ.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/L9G375Z7UM87.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/BHC0RHTWEAJR.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/166ETEPOEIC2.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/QAMNNKWSESBD.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/5RQS5Y46AG2N.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/LDCJOPGTHNMU.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/CIPE518ISAOI.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/4DV6FG2V3BHQ.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/OY784VR5I8BI.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/SI7JE0NSEVZ4.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/R0MJF726BSVA.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/X2PWDIVFAT0D.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/9JUC86NEYJ5N.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/7WE0LOC0VUOJ.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/NKZ3S4ACFDZS.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/GBB22PAU7TU0.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/NWT175823GQ9.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/9NZTF3OO64WG.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/DTIC1QZ7BDUV.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/WVH6XWQL6RYC.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/KXTBVJ5ZJURG.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/PBNNJFEHCSW5.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/SYTDMJC883XE.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/BPGY97CAZEAY.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/RRHFYOP2A95J.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/5QYGVX7JV05J.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/ER9UDCI0BB3F.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food trout/V0C7H57TUJ3X.jpg,fish sea_food trout,1
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/CCGME19LXVIU.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/BCNEMBA8WSWT.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/1Q1VIYRF51SA.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/6L5G0VQ5ILWJ.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/VOA1GY19P48L.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/MSJSPHLFT4KI.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/B5FKEY430Z10.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/X032166DBO1F.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/RO00IFFPP8KF.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/7PLT5TC1UBDR.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/33EF37D7MVNC.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/LGG7VHF83PV4.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/5H39602SPMU4.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/120E4RYA681G.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/07H43WTXIFYL.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/MJJUWY3IY8FI.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/IHDA8YNZLX7F.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/01C5WLMP1G23.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/YL718IVKQ211.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/2M6R0GQUHZYV.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/BCKDSXL9F8SM.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/VX8W3PJ3NWF9.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/KC5EYQB20VZ3.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/HGJ20A8JVHCY.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/QDL3WZGNQVVW.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/Q6D8V4J4MM0Z.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/1RXSFUOWLERN.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/4M1ZDOLW3RAB.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/GGJVRSMN5O94.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/ACGH6ZRCN4Y7.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/OX71YS9CRTHR.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/H9VW569TMUZ6.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/LIU5J0312CBV.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/FJRRWFY0R90R.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/2R503JLOXLSB.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/MZ8NXRDM66QH.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/ET2I53Q5FU4Q.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/PYYDRF8TTP8A.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/P4O6I614G32R.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/3MIKLR2MDH6E.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/H8WH5YNSCVHB.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/3SX1H4RS02QG.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/ONA9DJVY7DT5.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/I8TZNQDFNBS6.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/5V7HC0O10R9U.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/6EW4FYEFZRIF.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/WK3LYE4JMHO2.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/Z00M9YXWLNXL.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/TR64263OSKBL.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/MWFM2YZDGS79.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/66Z3J5DA9BZL.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/C0XV1R2QRHGT.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/3VI41J1WHMYN.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/ZXVTMPGCIYN1.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/MRJJL6AF96Z7.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/3E34P07LCXKN.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/U1GMHVDDZW29.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/VJG11W94FV50.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/3Y6B3SRPB5HB.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/5U58BQX2IITD.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/H2EWJ4TWQ3V0.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/GCW4KLS8XY6V.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/M6MJRPYKZWB7.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/JCE2P83URVI3.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/5FU7D2OXP1GE.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/V8HCNH1JPQJ0.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/ZAPGFY80GQ9A.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/84QIPAA0WLG0.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/8567YXCBAIQV.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/4FS1ZBW6UWAX.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/FYEYPGSVHT59.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/3HKPRD6GB8TQ.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/BMKTQBIWW9JY.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/W6E8I49APO0R.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/PRJM3J09QBK5.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/UJ1BKRW38K8E.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/6OTL7WWG5J4D.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/943RB4YCKVBK.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/SPBK61EA7HSO.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/52JH04EAKZU2.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/UQ8LTN0GFWCH.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/ZYT18A2YAL7B.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/L9NY26E2KCHC.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/0E6RB4PCKUPT.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/T5MWGCUQD1TV.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/FVIFN6IWDLNL.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/K2HTUCFEAROA.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/3VLLOXF5G4KZ.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/5BNOOY9VO2YS.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/1CMS8Z1HLBUQ.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/Z0OJH4LO9TXQ.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/I14NNZUNZ6BC.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/CCVWK3D8I7CH.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/R6UJ0TOEH5Z5.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/CAM6MS14FNA3.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/BYFUB1Q9KLD9.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/OIK6CSUQTUP1.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/PP3R47BH1EXK.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/M89T5RV1D241.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/CHN0ASBZ3Q2M.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food striped_red_mullet/QEOJPPCIEEAW.jpg,fish sea_food striped_red_mullet,2
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/UZREQKHEECEN.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/G6NO56SWNZOS.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/F53RNIAK9P3C.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/MABZQAP3YM22.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/44081PRBLEB3.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/DBE8MKGXIPMP.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/Z0U6GAP1BT8J.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/OYPW3J0IFOHL.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/QL7DR8T73LKT.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/ZGAJGGCKXQHK.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/IVSDXAM16BK3.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/L9H4YFGHROK4.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/2ZUQF5DURSBY.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/9N3OVUK6JSVZ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/W6T7HHD2N4J1.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/5YAW3OQB1XL4.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/PWNKPVLS9NV6.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/YA721J62U8EJ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/R3KWRK622ZAU.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/1K9URC0R3GEW.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/5WC09FH6Y1BJ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/6FG6WLBX61D2.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/YKK19IY2VH8E.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/B8UZDX5Y8S61.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/OJTWFTQV32T5.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/K8TKRE77OG1X.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/84XJVGCD5J72.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/L82WOVI3P73Z.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/2NHF903HQ0NX.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/ASHG1GETYBEB.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/PCZSY6V0GLE3.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/43S1QVHIHWM4.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/9Z9IKN54OETI.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/ZSK44S22BWG4.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/HDPQWJLOZPVJ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/BVRK4SJA36FS.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/IBCCGWCD6GIG.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/BEGJX4TUA58A.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/DY8RP0GR3GJ9.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/ZX1S1F6ZY1G2.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/I6SL7SX47QY4.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/U2GD3M75BJT5.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/8O9X3161HCGX.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/IH4KDJ9J7JZK.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/1K94GW9BCE0B.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/KVUVO7BDHC4P.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/M2X8Y9KNY9VD.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/G941IN7CPBZQ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/IHL8P9YY29AQ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/TYLK5Z0A5HXJ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/YVG1VT6UTHMD.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/7L1QHGSJK36S.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/HF4454YSNW02.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/V4NHG4PLJ3N6.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/PMFMR6Q3JM2F.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/4HMN4HASI95X.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/Z8OUIKNGUXIU.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/DB1BZBL776G7.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/5YKMR4BLXJ3J.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/NC4G0HD9BJDV.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/RUIKBM7RELE0.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/9DKT6B961RG2.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/T1PM914FNH3F.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/HVVOQHFCEJWL.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/LYWXNDJKMY5D.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/1W2CCTU07I5S.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/1WVPSQA37IR5.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/L0WV9Y05ARF2.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/4BNVI7BQVC2J.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/TJOPUVQ6E8PV.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/B9Z7OUOD4P9G.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/ZVBJBW2LE3KV.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/83I834T6OWSY.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/E0H2J9T6JVHS.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/SMRJ66HQH0NH.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/IL0MZYMTXKKK.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/5LGH9YWPOUY4.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/ZT18FRODYB2V.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/J3JLWHFM5G51.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/USIOZXU58A86.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/MOUT47JVBGE5.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/WSJX6FUJE6MM.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/11CMBRJI3U0F.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/NIGLP3JLQIZ3.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/NP4NXH3S08QV.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/2GIROGOCCMA6.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/GWA6AMIUCJLU.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/JR8OOJKZRKF8.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/HUFQET1SETFQ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/67XHOEK7AHWT.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/JPV2X142L3ZU.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/LSWLMI8LUCPI.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/LTURBD2DMQRA.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/8P4PZDA95P9U.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/MAPB59X4BKCQ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/PH7HOVMVH4QQ.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/6HHGTVLHFPSL.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/CD5YMZ5HIL1U.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/FS1M5NWRUTPD.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food shrimp/LND09OXTCCRA.jpg,fish sea_food shrimp,3
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/24MI0THTG8SD.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/TFZBAZXTEIPY.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/B53ZZNGMHSQ0.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/FOGGHQLOY5LR.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/BITMS00JZRX5.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/FBBU6B7VRY2R.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/QE3HOB8RP29J.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/B1BZ7ECWGP2P.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/8I471A1M843I.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/C9LA7ZQIY4G8.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/SL9F2AIXO536.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/S8WDY5Y1ZA8T.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/VU3RV9AEZEFM.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/0FW04Z0O7WBD.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/SKE4AG353FFD.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/80Z3WE7SAYVQ.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/PMSV5TXFCBFC.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/6JSEHUYZHN3X.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/BZRNRK1JZOEU.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/LKB9C3F3EKET.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/BDANEEBJGG5U.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/QGKN4K8OXPBO.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/2CKIWEEP0T85.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/5LLPRSDEJLY1.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/SSHA3QBKD4BG.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/Y566UNH7MSP9.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/IRFTH89YV3F4.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/S5UOPX3ZUQPS.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/8INAGVREIDYK.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/0JLZ5BJCRGOQ.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/EFYZN6RK418W.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/8FG65SB1M87A.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/6Z1I5X2767XU.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/DYHMICOPGZI1.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/MF4JP7STLHWQ.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/5FYU5X5XK9WM.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/ZF9LODE7EUEU.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/QWP983GHBW3E.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/R3C6UO2WVSVR.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/CH68PGSZ4JDK.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/0WJHOZBO18RC.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/JJCR19VZOLGO.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/TYQMNAJ095OI.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/U4JTC9QIVTWG.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/CIBYD1I75MN1.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/QE8FR84G8ANN.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/M5B8FSITNMLR.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/J32ZTAA8C4P3.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/VYFIBJEGBJBL.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/94LSID1U1K1V.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/OVA9FZYPO5EV.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/74L7K20MEIOD.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/P0P484FCVXTC.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/YKW5QOZPQNQO.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/C8YHW1D7CKRP.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/7K1RY467J01X.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/Z4NKW7IMKTMG.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/CM14P2K0BN4Y.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/XGQVB6BQ4DYG.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/6L3F79QVG48R.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/FXKQE81VEQSZ.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/LXWPXFJQCMEW.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/6KPBGEVMMP7K.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/4H7GR3BQO7HF.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/3CG1E0H8CA6R.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/22ACI05V3BNH.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/QCRU2KX2NJRQ.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/TUXP6PSGKWZ5.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/00MXPTNPO4WV.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/ZVLYHB6F60EY.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/1W9V6DYS4CE8.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/0IBLP2CF7LI5.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/Q89VWA2N6X0B.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/A1C0OJMAVO1D.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/Y607EYOKM2RC.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/MONBGPR5AGYP.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/16AO81347AZP.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/Q19LYRM08LH4.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/RU3T02C19R1Y.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/WPOS79RMH127.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/KY9595ONVTTE.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/1V9WXYHXUVV5.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/QUWEHPHG96EK.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/754L5DSX1NBP.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/HW26E0X86LS9.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/QGP4FCGO4V46.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/JKLRT7U9GRXZ.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/K37A96VPDXZJ.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/NY3XK5DOXB86.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_mullet/V5TC9BC6BREE.jpg,fish sea_food red_mullet,4
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/P64GVYFHX7SH.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/10AHJT1HPCR1.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/B0PNUPYASMT8.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/17VXHNS7W8SV.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/LNGKDKP8JAOL.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/TTCHE9VKNJN5.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/N4LK9HU3VUCU.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/OZ1IVLOCHJ4L.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/N9I8TBDPGV4Q.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/QD5SCCQMVTHN.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/SM1710B5AJ8M.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/3RA3XRRTEP1F.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/25I8X37IP02I.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/9SLELN5RYZ97.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/UR6QI1A3NXBE.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/RLZ367BLIIWJ.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/AK4WACRFB1LS.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/GEGVQMPDA0XB.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/MCD0OLU7INXY.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/8NSUL25W60WG.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/GQAHTAAZTL4B.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/RA10N3QB1S40.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/6162QZAEHM7O.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/015H0ZHN0VUK.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/2ZY25TL9QCKV.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/ZVIWZPGWX3JV.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/Y1AUTKC0TXME.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/21YR059HNZHK.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/CAF30S4Y4LFN.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/Y32X7PLGUESG.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/HQM84OX0ZDWA.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/UDIK1TQBIQDC.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/X8R6L3T7T7HV.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/6KB8XOVICYND.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/PUVHMKUJZ2ZD.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/M5IZZJTTY7F8.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/H4XU7FXT0IFG.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/F4CN5JCVBAH9.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/410FOTHQCRSA.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/HNAS5QPEPT3P.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/D3Y1CBY42BQK.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/B837Y4XD2CDT.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/WYK33KPIWX2Y.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/4N5WDXXFA0N2.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/KTQBV45EJSEH.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/4ESJQOBQ0RBO.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/DJU0GABK27BR.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/ECWRZTPXO32D.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/5LZNAB6MEFP1.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/PDB27C42YD1B.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/YUT6R1GLP3XY.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/PIU3GLSK0YKX.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/V78FLK1LH56V.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/C5KQWF6NW4O6.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/TEFJOR2L41ZX.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/PTA8193JJELC.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/AULTGWD8DIQS.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/ING9CE3OU9NE.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/2VQFFAJ6MJ5R.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/XIKZ947DMH3A.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/I93S03BL4X3Q.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/D1WP2GPO2SDR.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/4HMA97QDYUX6.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/0C4H0NH5BMJN.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/463M4QJ1NPB1.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/83ULUI4ETO7D.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/0ATITRXPBOOJ.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/2MRNXO3C8CPO.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/DEJRW71CTY5R.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/IASSLMMCW1KO.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/I7MIQNP3LQU4.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/EJRLAACOHA7Y.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/15MUDIG9ETXK.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/37P58PATN509.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/8XO1FPNJBB7J.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/5GZLXH13CAH5.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/2RGQ00YT3A30.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/MP2L85AG2HMT.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/SOJVJR3PAKLM.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/N0F7WO4PD0HG.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/VP5S8S9XUHW3.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/TI7RJ0XUONW9.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/3CXUNGW472JD.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/LNLTXP40BWP9.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/OR10D55RLK0J.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/QY5SCJRWWW8Z.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/HBMGMUMHK42M.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/XD8PSWOL6RXU.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/MBLJ02QOGYJX.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/W09B89AEXZ8C.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/AO16GM65EAEX.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/WDSBOEXOX82V.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/I2JXVHJUOXAD.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/KVT36D0LJOQM.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/L9RAN7EQJNYL.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/V5FOQ3J8NW2M.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/N8YO7W5HQLX6.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/HPNX6EQOP5BT.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/6CTKWOZMMI9M.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/VG8GXOQ4VRZV.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/34WZO9I5LVWA.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/3BHNDW9K0J3Y.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/L9RGQ0UL8UI5.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/GEF7NW5QTOIQ.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/G0F9HVVFLFDU.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/2EWREZVOH13L.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/0Q09PLYLIRRL.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/YMQ0MKS6S1YY.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/VXMU3J8TYQ2H.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/BY94VVD6TRD4.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/I5TKB28SX6J6.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/2KVXTG8MLUAH.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food red_sea_bream/OYI0FNYV1XB8.jpg,fish sea_food red_sea_bream,5
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/EWDND3T6OYWV.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/CFALCQI02RYU.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/G6NS1SNSDRD9.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/1TGBDLTWSZMA.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/GEO7CGLRD13P.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/QM8EZ3A7ORDS.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/7H4V7SRTGGO7.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/O2TQXWRBCO99.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/W39X5I7M69UZ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/TYS61WPO7Y0D.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/VH9YMLGTR3FB.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/8BT8LGQHRNT5.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/CAO9RDKDVPCO.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/YFGTE52GWPDT.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/YTIZ9MZALWIH.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/YRFTQA3X0TCJ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/R6R7ZD0AZ3H7.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/KCK95B68A2K5.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/2BU5AV7BD24L.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/KQZJ896GGKZ1.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/EZ3ATWIP9V4W.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/T6ID497NQTDS.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/G6N68DGSWA66.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/IO19WEY2UIRJ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/7ZCHJXV80ZQL.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/PKXL77JOBS4U.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/9UQ2GYDI5A9E.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/0W7VSWIVVG05.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/KOL4GTNKCRQJ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/V8IC95YBCUDG.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/BKDKFBTG1QY8.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/X4EN6DL5G8E1.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/LTLS7VH09V9V.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/OXUJ9KYKMPJM.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/11X1YRQMVVFG.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/K7C894R3J536.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/FXV689AJ96O4.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/6LYVQH0PLYE4.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/4S79GWBEVNNL.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/74U1KQVH6Y2P.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/6T6SMK9FB6FZ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/L088S5H6O0WK.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/MR79U6FSC4O1.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/OJUIU28L7LQF.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/JOBQHXOQ2K4S.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/JY51PEN91UET.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/Q8C6L50CQKPI.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/6YXRN3KQ0UYQ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/RY2UJXXG0PJD.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/2HIU6BZTC3K4.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/QRYVQLZYZL3N.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/AKOWSHXQOK5D.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/YP19TLKABZIO.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/CSMCCHF9KAZF.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/ER6TBSIKSOST.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/U7L8NUBBNJG5.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/G9FBFYB5SCG0.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/QFCNR9Q6MRV8.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/KZ8VAGBQGGOQ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/ZFQSJ2UTP0PI.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/XJ58MYL4UPFG.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/V2VWMN1BFNN4.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/94XSFPEYNFLO.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/OP4B2ZUT9KVH.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/49GNFOEBH1GP.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/UGUKXHAI3KWH.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/TUGNMVT0AYHK.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/W7UO4Z4G32H8.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/C6HU25ELKBBP.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/H0UB2XXWZM25.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/B1SXQDNT5ONZ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/YVNG3K2LVP1V.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/QJONYRJRHGXK.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/7RMJ6VEUOPNP.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/VDC6XVRO04MD.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/UHR1KF83SU0U.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/VQP0AUFC1LBU.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/XV948U54NAVQ.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/GXZNTM1N518C.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/20AXD3GMQNA1.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/H5YJH1KDFPYU.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/XBDIOF2AYMSA.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/YODQF92CTA99.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/OAH50NCSAN14.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/5AH75E69EN35.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/VJIR5GLQI81K.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/KIW5YQTJELMY.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/Y182A6C5ECN6.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/P6J9UMOXQ8N3.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/XS5NKW185LH4.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/TSXBDT2LGL2G.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/K6GI5MSSKLQH.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/184D13SQDJX4.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/fish sea_food gilt_head_bream/OM4NY6GU9WWY.jpg,fish sea_food gilt_head_bream,6
+/kaggle/input/fish-images/data/val/animal fish/GJ5WYPYMYUE1.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/TQ4IRBQ0N23G.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/6F4FF50Y8HOO.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/04H7O05DX3CU.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/BOJCOYPEC48T.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/S6EJ6QFKIITJ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/S5FDKI929Z0H.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/TDC82CO30TN9.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/9K92ZSUUD4VX.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/CVNUCOSJHI1V.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/NTYV9EXY6I2J.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/TYWKD07IKQAJ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/XZS4MUCBVB4P.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/QTJZ312LS8JZ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/PKN8JGRC8U0O.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/F3218PAXY0L3.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/3KM0K4A7C59O.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/P2AXM7CB50UU.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/0MZ03LG3OFDE.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/8AHMZ5J037B2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/9Q0LJ896OZYX.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/CAV9SGMLH0T0.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/ZFYEK3QR9PRI.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/95YF4ZY59TVD.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/DLJQTAS538LC.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/PBZ3QV5KWU1N.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/L2SZJL0ME8WV.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/6UNSBROUOC5T.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/9BM1OKRX7MD2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/2YEBRMRFM4CQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/M0576JNQMGRE.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/O58O6FUT1FKP.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/K9U5UHWKO590.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/NNC9BBA812OR.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/Q42TS6XQ4IW2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/HQGQN7C16K50.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/8NQ0J5L1E66D.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/FHNXX0FBFA60.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/KXJNSC0FFU1U.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/ZGNKYHZYVP52.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/GN4SVJ50066Q.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/NBTGOVX1VVU8.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/LG2PQZHNTUQM.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/WQK3M2KMF4W2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/IJ450LASH1EF.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/VK2PMHJY0474.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/G8G4ME9M6H1V.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/NXS3HKSXHCZ4.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/QXW0X9PEQ81S.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/CGLSM6RP85DO.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/5AS94BCHXJJQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/1G84C7CROM2J.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/9SHJQQ5KLT2H.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/GVYB9986WACP.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/LBWWE25B32NI.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/J7UAU376XPC8.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/GNQ4Q4DX3QNQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/N7VVBYZ1RFGV.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/592CG4QG85QO.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/BTH2MCINFEVT.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/J4VZXP4TUX3A.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/9PRTJZZ4L389.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/S5MQIY974IRD.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/F8Z1WMGIBACJ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/45P6L9QL8ELN.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/R27EET48MJCL.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/M3UHNJ2UT51V.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/UWK3RQKCWD4N.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/2VWMHDYAE3HM.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/L8AEOMD624UB.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/CZUGXQ3TCNE3.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/JG3B6LC1LFOL.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/RN7FX44HS4Y7.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/RFOFR58WQ3E1.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/AWL7ZN4DR9OR.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/2PKXYAE5K790.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/FAH07OFBL6XA.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/6SI4LX0DTKKE.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/HFDU05TVUIGC.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/VZC134XXRH6Y.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/RCMRANSN0694.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/7P5BQCX9JIFN.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/B7AXO2WAJJG4.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/1X72VBY15XKQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/WE5YQI8J246A.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/O1XGC6QINWDT.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/QG1AAEIIB1UE.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/2LK29MMU5XJH.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/N0YC6M93PTEF.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/UL5QMA6MQJ24.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/037HBUROQJPG.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/I1GIY39U4O96.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/2FBSKL9AP1OO.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/JFO4VAE4O1IQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/OKYNMJDZYS5Z.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/9OPZ2HS6ZZI6.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/EFHCUO71S2RV.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/HUTYY2IQTXLL.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/QJP1RS5GTA6I.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/R9J0OX8V2DNO.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/F0LW5H4ALC8L.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/GT4616Z7L4AO.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/IL4FNPEOX1JQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/MQM8NQ8AQYE2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/RHE7ZZG02QZM.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/B799PIMYSWEW.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/P8PJ2AFWGQWI.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/OHHGLXF5L3HY.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/2CCP0YRKOZIJ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/YRIV603WHUS2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/N41APBTP4BLC.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/X381S8QYNNIW.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/0BL5YTSEHIRZ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/K9VQUBYS5YF2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/HZRMTGQKSRS2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/63QTJTM2YT2W.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/TDY1E4QNQE1H.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/CK2BCWARYRNH.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/SDJFHD397103.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/09K1Q2K4PL5O.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/E17UPOGC9LTW.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/9S3CVGNRD2SU.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/QTO7K242EVIF.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/0L3KHK3OXWGB.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/U85CBNEF9BJT.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/SXG77PS2RMSO.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/0GXZ1TN4U21R.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/AT3LT0QFFFMT.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/PVKYVH4DCJ05.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/00INXORZNTLJ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/WZEF3YMW2SL2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/M2G66D8HJFTM.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/KBQ8E56R03UA.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/R2DM7I3PBK3G.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/5TJDHRAM57HA.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/JP0BP7ZM84UQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/L0J46UQSI7WH.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/478LFBZ0R6C8.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/HL92BIEQZUS0.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/LGCEW01RGQ5M.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/OVIEKHFZRN1Y.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/TJKJGH324PL3.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/P5F12TLQ00S0.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/NFS97WQIF7UQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/8EUVXP5DCIHU.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/6ZD2C9N78BU5.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/LCQ6OQ94EXKN.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/CFKNCL99IVBV.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/7QTEP10T5KOB.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/4M7810F2SPGE.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/T86NXK6QUCY0.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/36JECF0OEHDE.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/NPR1THL1QAM2.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/II5NN1IICBI9.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/A1IIFHPN6TCB.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/EM2N36AZN6XQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/LAC6L94LWA19.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/5ZQFTFLP29KC.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/68F1WZKB9NTB.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/6E2NPV6SUEBC.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/EDAFJK4I2K8L.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/LPBH7QGXVY91.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/EZUJWO79SEXT.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/HKJAMX2FVCIL.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/LQTYU4O8BS1Z.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/2FUXKB0HFP9G.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/4TDUXE8P563D.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/NMPAK104EY7K.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/WZXEVB5PTKCH.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/SA2WUPYRKC2X.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/XSJI93ZFRQSA.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/0VZTNRG6HBQV.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/F1ZHLT1LKOF3.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/9GF34C1HGZ81.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/TSO7DO8QOV7P.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/W80LK8XDV83T.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/FZ7ASSSQX6GM.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/TGFC43HCPFUB.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/8X0R0TX0Y33V.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/P61I658P1S4G.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/1SD1VN7N3FJT.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/1HH1K1T64555.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/3B5YOXCX26CQ.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/EES4HHKKL1I8.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/6V5JBVOLIK9Y.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/YW8TLLFE0KUC.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/animal fish/ICFDKI82ZZ2J.jpg,animal fish,7
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/3OSFR5G4AT9Z.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/9NXSLXBN6BKA.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/SMWBNSBKI03M.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/HSQZ2FYHIM35.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/F7VTTD0NQZB1.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/5EXYHTM7LDZR.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/1K9VNXWNIWTF.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/QE5FPZTUYZJ0.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/VSQYNT9BWZZ2.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/V0BLYI4B0XZS.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/6XYURL8U44TQ.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/LWCL997BFGHX.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/N4BOBQ3H13T6.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/7ROBMC2F4RBC.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/065I1KRN8MFN.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/JOFH8LDGUN0Z.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/9X8BPARMXKBN.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/U7TW316YISQ4.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/70MTMHELGAIE.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/6FL1TK3YI695.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/4ILBG30MRY34.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/RHTKC4ISVR9P.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/P1QW9XMEXZWX.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/937V6WUOX3X0.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/MDB38PI8UIOL.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/730DUSLOSAOR.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/5VHQ8X1FQ7C4.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/CM27A1LTA9UR.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/MP4ZLGQDBYUZ.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/J5H4LXLX7VQC.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/WHRYO37QUDYM.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/Z9WHNKAWTFE4.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/MG5IH55V4MI7.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/69NLRCY40KJU.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/UTEO1N8AJRUW.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/41090YR1H6OM.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/SA5540HE20R9.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/4ENDAUEX1LS8.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/NREU1B936XY6.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/FPCU5ACTU9NY.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/1VW0VDQIWVDY.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/LD9US1R19UEU.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/O4KX7T60RQ42.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/H23DIC9WAV05.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/288S3YJ4YJIY.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/X63HXZHOB1I2.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/XNZ6CC3SQBID.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/KTYBEB1VD0J9.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/IMRA49ZDE25Q.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/B6XKGPTLWE1A.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/ALZ69KKVCWXF.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/1TTMGOQI8AB8.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/S6S1QOMW7UCU.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/RWQ4U99VHQMX.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/UOAM0U3HNVAR.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/ECCLEQ9G0OEY.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/SDW24G8YX5AQ.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/KS3FIAQTUHSJ.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/LH3VEV3JRYIY.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/VRD6EH79TLJV.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/U58PN7RSMD9U.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/ZCD8V35X3VWB.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/A3KJXJ6SX215.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/7N2K4BBM9SY9.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/JO4HPZTOVF6H.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/JW01IB1GMF3J.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/XYXA9NU46W1P.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/7KH0JKZJ6K3X.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/5BBQWMVQH7XP.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/IV2F8SN20USK.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/AT1YSHXGTF8P.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/I0NXC2ZUSAYV.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/6VUXPZHH1SP3.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/XZ3A4K55QGH4.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/O3GADUN7PZT8.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/O3Y10D736V8Y.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/MO3A5MKYKNBM.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/CLP917SIGMED.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/WN0Q8K30QV7B.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/GVLUWJ2T0M0Q.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/I8IMUCHJS9TR.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/C7N3FE7YP2LL.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/ULQ68B2G30UH.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/40KH6L0V7XLQ.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/4VXFKRI9BHZD.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/WORKD41JO653.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/W9IBD7HCUX06.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/CIMN5ORV94ZU.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/F9QR5WWZHBTL.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/MV4ZMFDKE3B0.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/O7P20KQD3W2M.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/PJBZJDS8PR7F.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/VY41APP88IKK.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/FF1DVEZDFI5T.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/0OC5EGZ454GE.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/OCIU6G9QSMMP.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/C5DDN5KH1IET.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/LACSY7JJB85P.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/PC477NIS7413.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/5MF3CEJ8Z1TL.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/SMM0O3IHKWRT.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/Q6UPMIOP30M1.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/QUF8X84YV2CP.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/9A73PFUCQ31W.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food black_sea_sprat/CX089AA4TH87.jpg,fish sea_food black_sea_sprat,8
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/709VE6R1VVYM.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/7A5YCOZE1FI9.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/E7WIN4HPCMYM.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/GEX37UUATVL5.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/MTUAXJ52SNFB.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/THPXHAPON135.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/FRKZ8788EQ0N.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/KUA761ZGCJQC.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/I59TWU2RBT6I.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/69ANW3Q5PTID.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/FSO4RUF18W3Z.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/23LLAH0M3VTY.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/1HREDUH4CEQS.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/IHQSV0WQ7IC4.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/EDXPXN2GBCU9.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/34EGS2FIKYNR.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/3HKSQ3TVPR74.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/35TH75MAYKGW.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/NDXBLWKEVRJ7.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/XWLICCV1HGXL.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/OCFHMLZ96LHU.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/VBAWYC1HLHGZ.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/X2487A2K4WYO.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/CJO57TFHM3MQ.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/8K3FS145FJLA.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/6L8IHNOZ7M3L.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/YMR4CBP6DBGY.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/C8HCSVFNVQ8D.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/LKND25Z571IE.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/BBOVMSJIUOIJ.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/UCTDAXFT1XHL.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/19TDO26MLLYA.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/IN7QX09HTATD.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/8Z9T4Z1UC3GY.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/46CLVMAAP277.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/O5MDYGEM4PIV.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/ETBC1MF7O35R.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/C3FGRT0WPGZZ.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/3V9YSHMNPJT0.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/WESH1B58CTMF.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/U9U1OE5P6RQ0.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/DDNNWMNA39LZ.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/PBENYMU8IDAS.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/V0NZBEKEHLFF.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/LBAYRQERGBSA.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/7SBLH5M1C65X.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/7NDO4IPSR9PT.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/ZO9SF7R3CMJO.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/XMGWZ0C7N10W.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/9JF8AJ7FY9S7.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/Z1CVXRZQWHN1.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/K371I5DQNY4I.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/AO5KPPFSP2OW.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/GFC7A1F9FEUX.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/J44GP8RRSSN1.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/IABUD1LX5T9T.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/ER8R8OUOSF6D.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/KGO99HABAPI1.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/S5CY3XV55YAM.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/YYS98ZCEOXC0.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/W3OKBZPD3FJL.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/ZZ9OWR8T06HA.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/SH44H3ZZE80K.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/UEWC2PT3JLCY.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/O8GKKJ4MIP01.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/TM5WO6XCMK85.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/ZQPRKZCKDN65.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/GHN49ZVUHGTC.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/OL5LT223HD2L.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/G8NXK2NPNK9V.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/VSPDB84WVAYV.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/8XXSLZSJXU1U.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/9FSWIWNDARS1.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/8N5PSSB5QOJ4.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/JXPIPSM2G20W.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/0E54PDEDB9O4.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/6D5JM3V69H5K.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/SCS3XNLKK5TQ.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/3Y4YYD7MK6JJ.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/2IO5GERCRXSR.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/W5TVM6FHK0TY.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/81XQX3T1JO7O.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/QBCLRZ2JGSPN.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/LBWV63AURK0D.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/IP6K4JJO7QBD.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/BBV6JAZOUEDN.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/AUSSGCXQWP4P.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/V95W3EOG59QF.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/U2XXOVJKV6NI.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/WNWYVZDUUWD4.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/092ITL9NUN94.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/E9177EZYHZKF.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/A7I2XG3FGKYZ.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/V8L0TFVPJZRI.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/8VZ5H96B7S42.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/TUNXDKD62UFU.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food hourse_mackerel/APD2WQQCOB55.jpg,fish sea_food hourse_mackerel,9
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/2E8F1TTQZ2RI.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/ATY5NDLQJ8LF.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/K693R74VD28R.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/QN3W6VPRMHCV.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/OGUEFQNF7ROZ.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/I0UW4QQ0T0QY.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/LDDPDHJN7CMI.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/R10NG5KOEDGV.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/VB14MB9E93V2.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/HIUVRY5SXYC2.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/EU74IQSMWW1Y.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/VUMF303E8Q1N.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/YQZQGWYLC2IL.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/GQHV95INU23R.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/2I83B34ARC4O.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/7JGDF72BHG6W.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/N6OUB3R1RD64.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/F3QIF0CDBS7N.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/E99FR38KB7RH.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/M8UIPNIDDIKB.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/R7KZA9E8FLWH.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/QI06CE1AB110.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/MB2MIK473BZC.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/KG81D51Z7WG8.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/WP2G399IO7W5.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/B5W3MMYVI2BW.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/1ASP8IEFBE8Y.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/FX274TL9JVWQ.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/X45J11XPV3P8.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/LEHQVNRR4FO6.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/A1YPDG7SMZUF.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/IHMMFR5N9978.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/SFRQGUVFU7ZX.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/U5RMFNAFOWYC.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/8EN8NWANJIV7.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/BPMRVBCR3GT0.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/CYLPQZPMQJT1.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/6KYKBERZSBOJ.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/I21UOUX5NP73.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/1VI8V0N0YDIZ.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/OKN1TZMBO2HC.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/VWL47Y90BKSD.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/GKH2P5TR7J7K.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/99CF09EJ3YCD.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/WHNNC74Z4YUZ.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/XWIW1TH2W8O9.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/GA68ANYRJO2F.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/PIUQKVXMNK18.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/MD3D5F4C1DI8.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/C4NX7SISI8T1.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/40P1WX3TX9M4.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/XJZ9YTYA6370.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/3N5ER4NV2NVS.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/W3E9RNCT3EX8.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/73R3A6HE40BV.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/7ZYMQ073ICNQ.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/5941OZWLT9J5.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/2W0AO4UVCCQW.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/AE29Q5LT6XJ4.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/V1Z5GMD86OXI.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/JCB5SDNT99XW.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/19K3YFZ8XVGC.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/CJIXB96G3JDM.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/0YC1T81EG7IP.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/WR13X79G3EOS.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/WXTV0HYJ5JR9.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/WRV5589QVDGY.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/1CI9QNRGJ8Y5.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/M5GO9AT2N8OG.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/6RP9XQWQYROL.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/FBRRZ3GPE3RS.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/Y31UROH1KT9M.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/1FCLZL18NKCA.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/XI551S674H4I.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/62EQXTDCC03A.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/9LZ1JEMCABR3.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/3ZQECVRXFK00.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/QL1WJ39T9XOD.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/EXJM9GB0X5BB.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/TNTLWQIQ97M5.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/YIHGIHCQAVJ6.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/O3MS4GQDSSIF.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/2AJ6FXD0VKAE.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/J0U8JXF83YJQ.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/C4F8OLHQ319E.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/3XO6PP9AZIIG.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/RKHD5H4PN61A.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/QIP2MB83XS0W.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/73317FZTJ74T.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/F0K2TEDFB3VE.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/BAI6P0AL0NUD.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/WPYQ8C2SQGTC.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/RUWZ7W07WY9K.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/N5SYQPDAR4NZ.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/MWTZGIMYLWBN.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/Q6VR5GBLZUG8.jpg,fish sea_food sea_bass,10
+/kaggle/input/fish-images/data/val/fish sea_food sea_bass/SFYDMIWUNCME.jpg,fish sea_food sea_bass,10
