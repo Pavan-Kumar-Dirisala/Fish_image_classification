@@ -4,10 +4,6 @@ pandas
 matplotlib
 seaborn
 
-# Deep Learning
-tensorflow==2.15.0
-keras==2.15.0
-
 # Torch-based models (ResNet18, MobileNetV2, VGG16)
 torch==2.2.0
 torchvision==0.17.0
