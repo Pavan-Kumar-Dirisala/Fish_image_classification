@@ -1,10 +1,11 @@
-# Fish Image Classification with Deep Learning
+# 🐟 Fish Image Classification using Deep Learning
+
+A deep learning-based image classification system that identifies fish species using ResNet18, MobileNetV2, and Custom CNN architectures. The project provides real-time predictions through an interactive Streamlit web application.
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)](https://jupyter.org/)
 
 
-This project uses deep learning models like ResNet18 and MobileNetV2 to classify images of fish species. The models are deployed using **Streamlit** and **Jupyter Notebooks** for exploration and experimentation.
 
 ## Jupyter Notebooks
 
